@@ -3,7 +3,7 @@
 <html>
 <head>
 <title>Delete Student</title>
-
+<!-- jsp -->
 <style>
 body {
     margin: 0;

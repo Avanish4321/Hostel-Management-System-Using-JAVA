@@ -4,7 +4,7 @@
 <html>
 <head>
 <title>Student List</title>
-
+<!-- jsp -->
 <style>
 body {
     margin: 0;

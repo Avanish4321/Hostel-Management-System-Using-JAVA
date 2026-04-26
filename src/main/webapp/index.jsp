@@ -3,7 +3,7 @@
 <html>
 <head>
 <title>Hostel Dashboard</title>
-
+<!-- jsp -->
 <style>
 body {
     margin: 0;

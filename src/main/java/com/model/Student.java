@@ -1,5 +1,5 @@
 package com.model;
-
+//model
 import java.sql.Date;
 
 public class Student {

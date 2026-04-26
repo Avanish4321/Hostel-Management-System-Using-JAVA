@@ -7,7 +7,7 @@ import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.*;
 
 import com.dao.HostelDAO;
-
+//delete
 @WebServlet("/DeleteStudentServlet")
 public class DeleteStudentServlet extends HttpServlet {
 

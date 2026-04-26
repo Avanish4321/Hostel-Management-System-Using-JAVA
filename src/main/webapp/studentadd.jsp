@@ -3,7 +3,7 @@
 <html>
 <head>
 <title>Add Student</title>
-
+<!-- jsp -->
 <style>
 body {
     margin: 0;
